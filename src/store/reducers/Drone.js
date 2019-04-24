@@ -1,11 +1,6 @@
 import * as actions from "../actions";
 
 const initialState = {
-  loading: false,
-  weatherId: null,
-  name: "",
-  temperature: "",
-  weather_state_name: "",
   latitude:10,
   longitude:-90,
   droneData:[],
